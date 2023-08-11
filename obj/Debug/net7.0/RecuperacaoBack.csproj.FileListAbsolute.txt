@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\RecuperacaoBack\bin\Debug\net7.0\RecuperacaoBack.exe
+C:\Users\admin\Desktop\RecuperacaoBack\bin\Debug\net7.0\RecuperacaoBack.deps.json
+C:\Users\admin\Desktop\RecuperacaoBack\bin\Debug\net7.0\RecuperacaoBack.runtimeconfig.json
+C:\Users\admin\Desktop\RecuperacaoBack\bin\Debug\net7.0\RecuperacaoBack.dll
+C:\Users\admin\Desktop\RecuperacaoBack\bin\Debug\net7.0\RecuperacaoBack.pdb
+C:\Users\admin\Desktop\RecuperacaoBack\obj\Debug\net7.0\RecuperacaoBack.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\RecuperacaoBack\obj\Debug\net7.0\RecuperacaoBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\RecuperacaoBack\obj\Debug\net7.0\RecuperacaoBack.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\RecuperacaoBack\obj\Debug\net7.0\RecuperacaoBack.AssemblyInfo.cs
+C:\Users\admin\Desktop\RecuperacaoBack\obj\Debug\net7.0\RecuperacaoBack.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\RecuperacaoBack\obj\Debug\net7.0\RecuperacaoBack.dll
+C:\Users\admin\Desktop\RecuperacaoBack\obj\Debug\net7.0\refint\RecuperacaoBack.dll
+C:\Users\admin\Desktop\RecuperacaoBack\obj\Debug\net7.0\RecuperacaoBack.pdb
+C:\Users\admin\Desktop\RecuperacaoBack\obj\Debug\net7.0\RecuperacaoBack.genruntimeconfig.cache
+C:\Users\admin\Desktop\RecuperacaoBack\obj\Debug\net7.0\ref\RecuperacaoBack.dll
